@@ -1,7 +1,7 @@
 # ÖDEV1
 
 ## Alt Bilgi
-paragraf metni yazılan bölüm.
+Paragraf metni yazılan bölüm.
 
 ### Alt bilgi
 
