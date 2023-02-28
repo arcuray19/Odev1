@@ -1,7 +1,7 @@
 # ÖDEV1
 
 ## Alt Bilgi
-Paragraf metni yazılan bölüm.
+Lorem.
 
 ### Alt bilgi
 
